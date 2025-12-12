@@ -1,0 +1,8 @@
+[project]
+name = "python-practice"
+version = "0.1.0"
+description = "Learning Python"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.1.0",
+]
